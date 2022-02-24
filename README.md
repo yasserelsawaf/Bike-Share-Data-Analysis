@@ -4,7 +4,7 @@ Analyzing the data provided by Motivate, a bike share system provider for many m
 ![bikeshare](https://user-images.githubusercontent.com/100370599/155604995-8b07ad7a-b883-4d9a-a7e2-0a7fe91fd884.jpg)
 
 
-The Datasets
+The Datasets:
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns: 
 - Start Time (e.g., 2017-01-01 00:07:57) 
@@ -19,7 +19,7 @@ The Chicago and New York City files also have the following two columns:
 - Birth Year
 <img width="1076" alt="nyc-data" src="https://user-images.githubusercontent.com/100370599/155605702-8b33465d-6442-480a-990c-6e9b5fecac17.png">
 
-Statistics Computed
+Statistics Computed:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
 - most common month
@@ -39,3 +39,10 @@ Statistics Computed
 - counts of each user type
 - counts of each gender (only available for NYC and Chicago)
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+
+The Files:
+
+- chicago.csv
+- new_york_city.csv
+- washington.csv
