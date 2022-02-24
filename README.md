@@ -8,7 +8,7 @@ The Datasets
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns: 
 
--Start Time (e.g., 2017-01-01 00:07:57)
+-Start Time (e.g., 2017-01-01 00:07:57) /n
 -End Time (e.g., 2017-01-01 00:20:53)
 -Trip Duration (in seconds - e.g., 776)
 -Start Station (e.g., Broadway & Barry Ave)
